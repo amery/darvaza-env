@@ -1,1 +1,18 @@
 go 1.22.6
+
+use (
+	./src/darvaza.org/acmefy
+	./src/darvaza.org/cache
+	./src/darvaza.org/cache/x/groupcache
+	./src/darvaza.org/cache/x/memcache
+	./src/darvaza.org/cache/x/protosink
+	./src/darvaza.org/cache/x/simplelru
+	./src/darvaza.org/core
+	./src/darvaza.org/wilee
+	./src/darvaza.org/x
+	./src/darvaza.org/x/config
+	./src/darvaza.org/x/fs
+	./src/darvaza.org/x/net
+	./src/darvaza.org/x/tls
+	./src/darvaza.org/x/web
+)

@@ -3,6 +3,38 @@
 		{
 			"name": "root",
 			"path": "."
+		},
+		{
+			"name": "darvaza.org/wilee",
+			"path": "src/darvaza.org/wilee"
+		},
+		{
+			"name": "darvaza.org/acmefy",
+			"path": "src/darvaza.org/acmefy"
+		},
+		{
+			"name": "darvaza.org/cache",
+			"path": "src/darvaza.org/cache"
+		},
+		{
+			"name": "darvaza.org/core",
+			"path": "src/darvaza.org/core"
+		},
+		{
+			"name": "darvaza.org/x/config",
+			"path": "src/darvaza.org/x/config"
+		},
+		{
+			"name": "darvaza.org/x/net",
+			"path": "src/darvaza.org/x/net"
+		},
+		{
+			"name": "darvaza.org/x/tls",
+			"path": "src/darvaza.org/x/tls"
+		},
+		{
+			"name": "darvaza.org/x/web",
+			"path": "src/darvaza.org/x/web"
 		}
 	],
 	"settings": {
