@@ -1,0 +1,32 @@
+[submodule "src/darvaza.org/core"]
+	path = src/darvaza.org/core
+	url = https://github.com/darvaza-proxy/core
+	branch = main
+[submodule "src/darvaza.org/x"]
+	path = src/darvaza.org/x
+	url = https://github.com/darvaza-proxy/x
+	branch = main
+[submodule "src/darvaza.org/cache"]
+	path = src/darvaza.org/cache
+	url = https://github.com/darvaza-proxy/cache
+	branch = main
+[submodule "src/darvaza.org/slog"]
+	path = src/darvaza.org/slog
+	url = https://github.com/darvaza-proxy/slog
+	branch = main
+[submodule "src/darvaza.org/acmefy"]
+	path = src/darvaza.org/acmefy
+	url = https://github.com/darvaza-proxy/acmefy
+	branch = main
+[submodule "src/darvaza.org/penne"]
+	path = src/darvaza.org/penne
+	url = https://github.com/darvaza-proxy/penne
+	branch = main
+[submodule "src/darvaza.org/sidecar"]
+	path = src/darvaza.org/sidecar
+	url = https://github.com/darvaza-proxy/sidecar
+	branch = main
+[submodule "src/darvaza.org/wilee"]
+	path = src/darvaza.org/wilee
+	url = https://github.com/darvaza-proxy/wilee
+	branch = main
