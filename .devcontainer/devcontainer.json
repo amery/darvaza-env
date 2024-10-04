@@ -38,7 +38,13 @@
         "EditorConfig.EditorConfig",
         "golang.go",
         "ms-vscode.makefile-tools",
-        "GitHub.vscode-pull-request-github"
+        "GitHub.vscode-pull-request-github",
+        "GitHub.vscode-github-actions",
+        "bufbuild.vscode-buf",
+        "streetsidesoftware.code-spell-checker-british-english",
+        "streetsidesoftware.code-spell-checker",
+        "eamodio.gitlens",
+        "ms-vsliveshare.vsliveshare"
       ]
     }
   }

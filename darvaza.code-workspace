@@ -3,6 +3,82 @@
 		{
 			"name": "root",
 			"path": "."
+		},
+		{
+			"name": "darvaza.org/acmefy",
+			"path": "src/darvaza.org/acmefy"
+		},
+		{
+			"name": "darvaza.org/cache",
+			"path": "src/darvaza.org/cache"
+		},
+		{
+			"name": "darvaza.org/core",
+			"path": "src/darvaza.org/core"
+		},
+		{
+			"name": "darvaza.org/darvaza",
+			"path": "src/darvaza.org/darvaza"
+		},
+		{
+			"name": "darvaza.org/darvaza/acme",
+			"path": "src/darvaza.org/darvaza/acme"
+		},
+		{
+			"name": "darvaza.org/darvaza/agent",
+			"path": "src/darvaza.org/darvaza/agent"
+		},
+		{
+			"name": "darvaza.org/darvaza/shared",
+			"path": "src/darvaza.org/darvaza/shared"
+		},
+		{
+			"name": "darvaza.org/darvaza/server",
+			"path": "src/darvaza.org/darvaza/server"
+		},
+		{
+			"name": "darvaza.org/middleware",
+			"path": "src/darvaza.org/middleware"
+		},
+		{
+			"name": "darvaza.org/penne",
+			"path": "src/darvaza.org/penne"
+		},
+		{
+			"name": "darvaza.org/resolver",
+			"path": "src/darvaza.org/resolver"
+		},
+		{
+			"name": "darvaza.org/sidecar",
+			"path": "src/darvaza.org/sidecar"
+		},
+		{
+			"name": "darvaza.org/slog",
+			"path": "src/darvaza.org/slog"
+		},
+		{
+			"name": "darvaza.org/wilee",
+			"path": "src/darvaza.org/wilee"
+		},
+		{
+			"name": "darvaza.org/x/config",
+			"path": "src/darvaza.org/x/config"
+		},
+		{
+			"name": "darvaza.org/x/fs",
+			"path": "src/darvaza.org/x/fs"
+		},
+		{
+			"name": "darvaza.org/x/net",
+			"path": "src/darvaza.org/x/net"
+		},
+		{
+			"name": "darvaza.org/x/tls",
+			"path": "src/darvaza.org/x/tls"
+		},
+		{
+			"name": "darvaza.org/x/web",
+			"path": "src/darvaza.org/x/web"
 		}
 	],
 	"settings": {
