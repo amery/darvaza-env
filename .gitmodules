@@ -14,6 +14,10 @@
 	path = src/darvaza.org/darvaza
 	url = https://github.com/darvaza-proxy/darvaza
 	branch = master
+[submodule "src/darvaza.org/kube"]
+	path = src/darvaza.org/kube
+	url = https://github.com/darvaza-proxy/kube
+	branch = main
 [submodule "src/darvaza.org/middleware"]
 	path = src/darvaza.org/middleware
 	url = https://github.com/darvaza-proxy/middleware

@@ -37,6 +37,10 @@
 			"path": "src/darvaza.org/darvaza/server"
 		},
 		{
+			"name": "darvaza.org/kube",
+			"path": "src/darvaza.org/kube"
+		},
+		{
 			"name": "darvaza.org/middleware",
 			"path": "src/darvaza.org/middleware"
 		},
@@ -65,6 +69,10 @@
 			"path": "src/darvaza.org/x/config"
 		},
 		{
+			"name": "darvaza.org/x/container",
+			"path": "src/darvaza.org/x/container"
+		},
+		{
 			"name": "darvaza.org/x/fs",
 			"path": "src/darvaza.org/x/fs"
 		},
@@ -84,6 +92,9 @@
 	"settings": {
 		"files.exclude": {
 			"src": true
-		}
+		},
+		"cSpell.words": [
+			"darvaza"
+		]
 	}
 }
