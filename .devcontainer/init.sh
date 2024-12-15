@@ -2,6 +2,8 @@
 
 set -eu
 
+env
+
 cd "$(dirname "$0")/.."
 
 F=".devcontainer/Dockerfile"
